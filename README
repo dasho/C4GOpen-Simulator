@@ -1,0 +1,8 @@
+C4GOpen Simulator ----------------------------------------
+Adriano Dasho <adrianodasho@ufmg.br>
+PDVA - CORO - Universidade Federal de Minas Gerais ------
+
+Files ----
+
+C4GOpen.cpp --- simulator rtnet interface
+smartsix.m  --- simulator using RobotToolbox@Matlab (future: in python) 
